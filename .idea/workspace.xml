@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e92475b3-be98-4c53-a25d-563b1c84e69a" name="Default" comment="" />
+    <list default="true" id="e92475b3-be98-4c53-a25d-563b1c84e69a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/act_drawer.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/act_drawer_pressed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/act_widget.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/act_widget_pressed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/b_add.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/b_drawer.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/b_return.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/b_widget.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/cat_selector.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/cat_selector_l.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/grid_focused.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/grid_pressed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/grid_selector.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/please_read_me.xml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/skin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-xxhdpi/act_add.png" afterPath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-xxhdpi/act_add.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/welcomeActivityLib/welcomeActivityLibrary-release.aar" afterPath="$PROJECT_DIR$/welcomeActivityLib/welcomeActivityLibrary-release.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Theme Template.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/welcomeActivityLibrary/.gradle/" />
@@ -33,80 +57,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+      <file leaf-file-name="cat_selected.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/cat_selected.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <file leaf-file-name="skin.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/skin.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.5272727">
-              <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+            <state vertical-scroll-proportion="-8.394737">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SLThemeTemplate/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41815096">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding>
-                <element signature="e#239#257#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="colors.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/colors.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.2894738">
-              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="preview.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-nodpi/preview.jpg">
+      <file leaf-file-name="act_add.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-xxhdpi/act_add.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="welcomeactivity.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/welcomeactivity.xml">
+      <file leaf-file-name="cat_selected_l.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/cat_selected_l.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.5789475">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="clock.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/clock.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.105263">
-              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -2165,9 +2147,18 @@
         <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/clock.xml" />
         <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/welcomeactivity.xml" />
         <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/SLThemeTemplate/build/intermediates/exploded-aar/ThemeTemplate/welcomeActivityLib/unspecified/res/values/values.xml" />
         <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/act_drawer.xml" />
+        <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/act_drawer_pressed.xml" />
+        <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/act_widget.xml" />
+        <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/act_widget_pressed.xml" />
+        <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/b_add.xml" />
+        <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/b_drawer.xml" />
+        <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/b_return.xml" />
+        <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/b_widget.xml" />
+        <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/skin.xml" />
       </list>
     </option>
   </component>
@@ -2250,6 +2241,10 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -2667,12 +2662,13 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2912,14 +2908,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.2894738">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SLThemeTemplate/build/intermediates/exploded-aar/ThemeTemplate/welcomeActivityLib/unspecified/res/values/values.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.24009462">
@@ -2930,12 +2918,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41815096">
+        <state vertical-scroll-proportion="-12.973684">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
             <element signature="e#239#257#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-xxhdpi/act_drawer_png.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-xxhdpi/act_drawer_pressed_png.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/cat_selected_l.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/cat_selected.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/skin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.394737">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-xxhdpi/act_add.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
