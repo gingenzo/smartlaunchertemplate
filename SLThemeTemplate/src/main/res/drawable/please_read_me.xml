@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item>
+b_drawer: defines the look of the button that opens the app grid.
+b_widget: defines the look of the button that opens the widget panel.
+b_add: defines the look of the button to add widget in the widget screen.
+b_return: defines the look of the button to return from the widget screen.
+
+catlist_bg: defines the background of the categories list
+catlist_bg_l: lefthanded version of catlist_bg
+
+cat_selected: defines the background of the selected category
+cat_selected_l: lefthanded version of cat_selected_l
+
+grid_selector, 
+grid_focused,
+grid pressed,
+define the look of the selected icon in the app grid
+</item>

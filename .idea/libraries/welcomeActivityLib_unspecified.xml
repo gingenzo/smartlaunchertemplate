@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="welcomeActivityLib-unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SLThemeTemplate/build/intermediates/exploded-aar/ThemeTemplate/welcomeActivityLib/unspecified/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/SLThemeTemplate/build/intermediates/exploded-aar/ThemeTemplate/welcomeActivityLib/unspecified/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

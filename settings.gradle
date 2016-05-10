@@ -1,0 +1,2 @@
+include ':SLThemeTemplate', ':welcomeActivityLib'
+//include ':welcomeActivityLibrary'

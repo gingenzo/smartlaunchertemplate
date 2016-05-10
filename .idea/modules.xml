@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SLThemeTemplate/SLThemeTemplate.iml" filepath="$PROJECT_DIR$/SLThemeTemplate/SLThemeTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThemeTemplate.iml" filepath="$PROJECT_DIR$/ThemeTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/welcomeActivityLib/welcomeActivityLib.iml" filepath="$PROJECT_DIR$/welcomeActivityLib/welcomeActivityLib.iml" />
+    </modules>
+  </component>
+</project>

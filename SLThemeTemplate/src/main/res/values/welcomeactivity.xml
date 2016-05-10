@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Welcome activity -->
+    <color name="accent_color">#FF4081</color>
+    <color name="text_button">#ffffffff</color>
+
+</resources>

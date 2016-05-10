@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- your app name -->
+    <string name="app_name">Theme Template</string>
+
+    <!-- HOME SCREEN -->
+    <!-- wallpaper overlay to make icons and text more readable -->
+    <integer name="home_background">0x22000000</integer>
+
+    <!-- layout for the home screen icons. It can be layout_flower or layout_grid-->
+    <integer name="quickstartLayout">@integer/layout_flower</integer>
+
+    <!-- Search bar text -->
+    <integer name="searchbarTextColor">0xffffffff</integer>
+
+    <!-- Separators between search bar results -->
+    <integer name="searchbarDividerColor">0xffffffff</integer>
+
+    <!-- Bubble size. Higher value is smaller. min 50, max 0. -->
+    <integer name="bubblepadding">24</integer>
+
+    <!--
+    Notification badge background color
+    (text color is automatically chosen by the launcher)
+    -->
+    <integer name="bubblenotifycolor">0xffbe7107</integer>
+
+    <!-- text color for items inside a folder -->
+    <integer name="folderTextColor">0xff454545</integer>
+
+    <!-- DRAWER -->
+    <!-- Overlay used in the app grid to make icons and text more readable -->
+    <integer name="drawer_background">0x33000000</integer>
+
+    <!-- Color of the text for the app grid title -->
+    <integer name="drawer_titlecolor">0xffffffff</integer>
+
+    <!-- Color and shadow for the icon text in the app grid -->
+    <integer name="icon_textcolor">0xffffffff</integer>
+    <integer name="icon_shadowcolor">0x55000000</integer>
+
+    <!-- background color for focused icons. -->
+    <color name="bg_icon_focused">#44FFFFFF</color>
+
+    <!-- background color for pressed icons. -->
+    <color name="bg_icon_pressed">#88FFFFFF</color>
+
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!--  This file draw the category's background when a category is selected (righthanded mode).
+   You can edit this file or you can replace it with a png (in this case, rename this file in cat_selected.png).
+     -->
+
+    <item
+        android:bottom="-8dp"
+        android:left="-8dp"
+        android:top="-8dp">
+        <shape android:shape="rectangle">
+
+            <!-- This tag draw the vertical line. -->
+            <stroke
+                android:width="2dp"
+                android:color="#ffffffff" />
+
+            <!-- You can edit this tag to change the background color -->
+            <solid android:color="#00000000" />
+        </shape>
+    </item>
+
+</layer-list>

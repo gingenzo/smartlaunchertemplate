@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- clock text color -->
+    <string name="clockcolor">#ffffffff</string>
+
+    <!--
+    clock text shadow
+    format: Xoffset/Yoffset/radius/color
+    -->
+    <string name="clockshadow">0/0/0/#00ffffff</string>
+
+</resources>
