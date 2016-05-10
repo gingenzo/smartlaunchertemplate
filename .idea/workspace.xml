@@ -1,48 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e92475b3-be98-4c53-a25d-563b1c84e69a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/welcomeActivityLib/welcomeActivityLibrary-release.aar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/welcomeActivityLib_unspecified.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SLThemeTemplate/SLThemeTemplate.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/clock.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/welcomeactivity.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThemeTemplate.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/welcomeActivityLib/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/welcomeActivityLib/welcomeActivityLib.iml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/.idea/gradle.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/.idea/runConfigurations.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/SL ThemeTemplate/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/SL ThemeTemplate/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/SL ThemeTemplate/proguard-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/SL ThemeTemplate/src/main/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/SL ThemeTemplate/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/SL ThemeTemplate/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/SL ThemeTemplate/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/SL ThemeTemplate/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/SL ThemeTemplate/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/SL ThemeTemplate/src/main/res/values/colors.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/SL ThemeTemplate/src/main/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/gradle.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/gradlew" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/gradlew.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/settings.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/welcomeActivityLibrary-release/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/welcomeActivityLibrary-release/welcomeActivityLibrary-release.aar" afterPath="" />
-    </list>
+    <list default="true" id="e92475b3-be98-4c53-a25d-563b1c84e69a" name="Default" comment="" />
     <ignored path="Theme Template.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/welcomeActivityLibrary/.gradle/" />
