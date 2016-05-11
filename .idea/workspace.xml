@@ -5,26 +5,18 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e92475b3-be98-4c53-a25d-563b1c84e69a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/act_drawer.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/act_drawer_pressed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/act_widget.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/act_widget_pressed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/b_add.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/b_drawer.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/b_return.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/b_widget.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/cat_selector.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/cat_selector_l.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/grid_focused.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/grid_pressed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/grid_selector.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/please_read_me.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/skin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-xxhdpi/act_add.png" afterPath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-xxhdpi/act_add.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/assets/clock.ttf" afterPath="$PROJECT_DIR$/SLThemeTemplate/src/main/assets/clock.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/assets/date.ttf" afterPath="$PROJECT_DIR$/SLThemeTemplate/src/main/assets/date.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/assets/theme_font.ttf" afterPath="$PROJECT_DIR$/SLThemeTemplate/src/main/assets/theme_font.ttf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/welcomeActivityLib/welcomeActivityLibrary-release.aar" afterPath="$PROJECT_DIR$/welcomeActivityLib/welcomeActivityLibrary-release.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/SLThemeTemplate/src/main/AndroidManifest.xml" />
     </list>
     <ignored path="Theme Template.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -77,10 +69,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="act_add.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="act_add.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-xxhdpi/act_add.png">
           <provider selected="true" editor-type-id="images">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.17217982">
+              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+              <folding>
+                <element signature="e#239#257#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="clock.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/clock.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.0526316">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -2144,11 +2158,9 @@
         <option value="$PROJECT_DIR$/SLThemeTemplate/build.gradle" />
         <option value="$PROJECT_DIR$/settings.gradle" />
         <option value="$PROJECT_DIR$/SLThemeTemplate/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/clock.xml" />
         <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/welcomeactivity.xml" />
         <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/SLThemeTemplate/build/intermediates/exploded-aar/ThemeTemplate/welcomeActivityLib/unspecified/res/values/values.xml" />
-        <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/act_drawer.xml" />
         <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/act_drawer_pressed.xml" />
         <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/act_widget.xml" />
@@ -2159,12 +2171,15 @@
         <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/b_widget.xml" />
         <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/skin.xml" />
+        <option value="$PROJECT_DIR$/SLThemeTemplate/build/generated/source/r/debug/R.java" />
+        <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/clock.xml" />
+        <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/AndroidManifest.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="130" />
-    <option name="y" value="48" />
+    <option name="y" value="2208" />
     <option name="width" value="3710" />
     <option name="height" value="2112" />
   </component>
@@ -2242,10 +2257,6 @@
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawable" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -2255,10 +2266,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="SLThemeTemplate" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="manifests" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -2598,7 +2605,7 @@
       <option name="ARTIFACT_NAME" value="" />
       <option name="PM_INSTALL_OPTIONS" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
+      <option name="MODE" value="specific_activity" />
       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
       <option name="PREFERRED_AVD" value="" />
       <option name="CLEAR_LOGCAT" value="false" />
@@ -2623,7 +2630,7 @@
         <option name="GAPID_DISABLE_PCS" value="false" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
+      <option name="ACTIVITY_CLASS" value="ginlemon.sltheme.main" />
       <method />
     </configuration>
     <list size="3">
@@ -2658,7 +2665,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="130" y="48" width="3710" height="2112" extended-state="6" />
+    <frame x="130" y="2208" width="3710" height="2112" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2667,7 +2674,7 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2879,14 +2886,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/clock.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.105263">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/welcomeactivity.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.5789475">
@@ -2906,24 +2905,6 @@
     <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-nodpi/preview.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/build/intermediates/exploded-aar/ThemeTemplate/welcomeActivityLib/unspecified/res/values/values.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24009462">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.973684">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#239#257#0" expanded="true" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-xxhdpi/act_drawer_png.png">
@@ -2952,6 +2933,11 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-xxhdpi/act_add.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/skin.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.394737">
@@ -2960,9 +2946,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-xxhdpi/act_add.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/clock.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.0526316">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/build/intermediates/exploded-aar/ThemeTemplate/welcomeActivityLib/unspecified/res/values/values.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07392076">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17217982">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="e#239#257#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>

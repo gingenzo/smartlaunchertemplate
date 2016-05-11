@@ -12,6 +12,11 @@
                 <action android:name="ginlemon.smartlauncher.THEMES" />
             </intent-filter>
         </activity>
+
+        <!-- Uncomment these lines to disable the activity that helps the user to apply the theme-->
+        <!--<activity android:name="ginlemon.sltheme.main"-->
+            <!--android:enabled="false">-->
+        <!--</activity>-->
     </application>
 
 </manifest>
