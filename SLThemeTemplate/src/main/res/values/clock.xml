@@ -2,7 +2,7 @@
 <resources>
 
     <!-- clock text color -->
-    <string name="clockcolor">#ffffffff</string>
+    <string name="clockcolor">#ffff00ff</string>
 
     <!--
     clock text shadow
