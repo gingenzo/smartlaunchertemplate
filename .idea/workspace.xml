@@ -9,19 +9,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e92475b3-be98-4c53-a25d-563b1c84e69a" name="Default" comment="Upgraded gradle version; added some documentation;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="e92475b3-be98-4c53-a25d-563b1c84e69a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-nodpi/clockpreview.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SLThemeTemplate/SLThemeTemplate.iml" afterPath="$PROJECT_DIR$/SLThemeTemplate/SLThemeTemplate.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/SLThemeTemplate/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/catlist_bg.xml" afterPath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/catlist_bg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/catlist_bg_l.xml" afterPath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/catlist_bg_l.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/clock.xml" afterPath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/clock.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
     </list>
     <ignored path="Theme Template.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -112,7 +102,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="catlist_bg_l.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="catlist_bg_l.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/catlist_bg_l.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -122,11 +112,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="clock.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="clock.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/clock.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+            <state relative-caret-position="180">
+              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -2708,6 +2698,14 @@
       <option name="presentableId" value="Default" />
       <updated>1462808075084</updated>
     </task>
+    <task id="LOCAL-00001" summary="Upgraded gradle version; added some documentation;">
+      <created>1480075117171</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1480075117171</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -3070,14 +3068,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/clock.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -3138,6 +3128,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="106" selection-start-line="4" selection-start-column="106" selection-end-line="4" selection-end-column="106" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/clock.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
           <folding />
         </state>
       </provider>
